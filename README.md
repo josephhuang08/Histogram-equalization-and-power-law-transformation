@@ -1,4 +1,7 @@
-# Histogram-equalization-and-power-law-transformation
-Image enhancement using equalization and power-law transformation
+Image-Processing-NDHU
 
-Ndhu Image processing mid-term project by 黃書垣.
+1. Image enhancement using Histogram equalization and power-law transformation.
+
+2. Image rotated 30 degrees clockwise using nearest neighbor interpolation and bilinear interpolation.
+
+Ndhu Image processing programs by 黃書垣.
